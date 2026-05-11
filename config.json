@@ -1,0 +1,19 @@
+{
+  "bilibili": {
+    "enabled": true,
+    "cookies": "SESSDATA=a1eafce4%2C1794013334%2C49612%2A51CjDMkSKnvrUBm5NG0vCBbT6k8GEB9O6JvuUb1m6BU5PLzGlg_stLKo4kZOyFO0UTqV0SVmdMd1A5NFdlUEJfcmltNHBJYnhmbE9MTmdnMXNTM3BsaHdSYTdLZmxhLVE4QzNZckM1bWdXN1B3bVdZb1ZmZERBbGh4R19lM2RWUjVSel90d08wY1ZBIIEC; bili_jct=5ea2a7e716281238f235b12888b66f8c; DedeUserID=388505017",
+    "target_videos": [
+      "https://www.bilibili.com/video/BV1xx411c7mD"
+    ],
+    "hot_comment_threshold": 100
+  },
+  "douyin": {
+    "enabled": true,
+    "cookies": "",
+    "target_videos": []
+  },
+  "storage": {
+    "image_dir": "data/images",
+    "db_path": "data/db/meme_data.db"
+  }
+}
